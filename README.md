@@ -1,5 +1,5 @@
 # cs128h-final-project
-<h3> Group name: TBD <h3>
+<h3> Group name: THERoy <h3>
 <h3> Group member: Roy Xiong(sx24) <h3>
 <h3> Project Introduction: <br>
 I'm a big basketball fan, and I think it would be pretty cool if I could use machine learning to predict the outcome of NBA games(so that I can show-off to my friends). Since I'm new to the machine learning, I plan to mainly focus on implementing neural networks for the prediction. And if time allows, I would try to use other models to cross-examine the best method with highest accuracy. The main goal is really finishing the project and then try to tune the model for better performance. Hopefully I would have a solid grasp of machine learning by the end.  
