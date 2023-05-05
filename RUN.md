@@ -8,5 +8,5 @@
 -Jupyter extension <br>
 (the alternative option is to use the anaconda prompt to activate jupyter notebook/lab) <br>
 
-Note: It is not adviced to run the whole notebook as the data scraping part takes extremely long time <br> 
+Note: It is adviced to only view the notebook as the data scraping part takes extremely long time to run. The code's functionality will be demonstrated in the video<br> 
 For more specific directions please refer to the video.
